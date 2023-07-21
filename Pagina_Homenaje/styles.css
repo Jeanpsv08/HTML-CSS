@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+main{
+    border-radius: 10px;
+    background-color: #EEEEEE;
+    margin: 2rem 0.2rem;
+    display: block;
+    padding: 10px;
+}
+
+#img-div{
+    display: block;
+    background-color: white;
+    margin: 1rem ;
+    padding: 8px;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto ;
+    margin: 0 auto;
+}
+
+#tribute-info,#cite{
+    display: block;
+    
+}
+ul, #cite{
+    display: block;
+    margin: auto auto;
+    text-align: left;
+    max-width: 500px;
+}
+h3{
+    font-size: 1.17em;
+}
